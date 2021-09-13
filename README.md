@@ -1,2 +1,2 @@
 # git_starting
-GitHub練習
+GitHub事始め
